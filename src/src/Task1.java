@@ -1,7 +1,8 @@
 public class Task1 {
 
     public static void main(String[] args) {
-        //System.out.println("String") ;
+        System.out.println("String") ;
+        int a = 20 ;
 
     }
 
